@@ -37,9 +37,6 @@ LLM 기반 개인화 추천서 생성 및 품질 평가 시스템 설계
 
 ![이미지3](./images/image3.png)  
 
-![이미지4](./images/image4.png)  
-
-
 ![이미지6](./images/image6.png)  
 
 ![이미지7](./images/image7.png)  
